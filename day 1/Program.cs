@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Net;
 
-namespace day_1
+namespace AdventOfCode
 {
     class Program
     {
@@ -13,11 +13,10 @@ namespace day_1
 
             
             int counterLoop2 = 0;
-            for (int i = 0; i < text.Length; i++)
+            foreach (string line in text)
             {
-                string line = text[i];
                 int x = Int32.Parse(line);
-                foreach(string line2 in text) 
+                foreach (string line2 in text) 
                 {
                     int y = Int32.Parse(line2);
                     if (counterLoop2 == 0)
