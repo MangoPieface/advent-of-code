@@ -1,0 +1,11 @@
+/Users/708506/projects/advent-of-code/day 1/bin/Debug/netcoreapp3.0/day 1
+/Users/708506/projects/advent-of-code/day 1/bin/Debug/netcoreapp3.0/day 1.deps.json
+/Users/708506/projects/advent-of-code/day 1/bin/Debug/netcoreapp3.0/day 1.runtimeconfig.json
+/Users/708506/projects/advent-of-code/day 1/bin/Debug/netcoreapp3.0/day 1.runtimeconfig.dev.json
+/Users/708506/projects/advent-of-code/day 1/bin/Debug/netcoreapp3.0/day 1.dll
+/Users/708506/projects/advent-of-code/day 1/bin/Debug/netcoreapp3.0/day 1.pdb
+/Users/708506/projects/advent-of-code/day 1/obj/Debug/netcoreapp3.0/day 1.csprojAssemblyReference.cache
+/Users/708506/projects/advent-of-code/day 1/obj/Debug/netcoreapp3.0/day 1.AssemblyInfoInputs.cache
+/Users/708506/projects/advent-of-code/day 1/obj/Debug/netcoreapp3.0/day 1.AssemblyInfo.cs
+/Users/708506/projects/advent-of-code/day 1/obj/Debug/netcoreapp3.0/day 1.dll
+/Users/708506/projects/advent-of-code/day 1/obj/Debug/netcoreapp3.0/day 1.pdb
